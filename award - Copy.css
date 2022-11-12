@@ -1,0 +1,65 @@
+.maindiv {
+    height: 500px;
+    width: 1000px;
+    margin-left:150px;
+
+   
+
+}
+
+#resume {
+    font-size: 20px;
+
+    border-radius: 20px;
+    background-color: rgb(238, 88, 88);
+    color: white;
+    width: 120px;
+    height: 50px;
+}
+
+#coral:hover {
+    color: rgb(238, 88, 88);
+    text-decoration: underline;
+
+}
+
+#resume:hover {
+    background-color: white;
+    color: rgb(238, 88, 88);
+}
+
+h2 {
+    margin-left: 50px;
+    color: rgb(238, 88, 88);
+}
+
+ul {
+    margin-left: 25px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    margin-left: 50px;
+    font-size: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(238, 88, 88);
+}
+#just {
+   
+
+
+    background: linear-gradient(to right, red 2%, rgb(205, 20, 246) 15%, rgb(181, 90, 222) 1%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    
+}

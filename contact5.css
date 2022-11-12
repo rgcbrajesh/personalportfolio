@@ -1,0 +1,56 @@
+@media screen and (max-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+
+    .maindiv {
+        /* border:solid black 3px ; */
+        height: 600px;
+        width: 300px;
+        margin-left: 0px;
+    }
+
+    #tabletop {
+        height: 20px;
+        width: 300px;
+    }
+
+    #tabletop1 {
+        height: 60px;
+        width: 315px;
+    }
+
+    ul {
+        margin: 0px;
+        font-size: small;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    body {
+        background-color: white;
+    }
+
+    h3 {
+        margin-left: 0px;
+        font-size: large;
+
+    }
+}
+
+.due {
+    border: solid black 3px;
+    background-color: silver;
+}
+
+#submitcolor {
+    height: 20px;
+    width: 100px;
+    margin-left: 90px;
+    background-color: rgb(32, 161, 231);
+    color: white;
+}
+
+#submitcolor:hover {
+    background-color: white;
+    color: rgb(88, 203, 238);
+}
