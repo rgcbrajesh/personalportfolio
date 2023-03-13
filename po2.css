@@ -115,7 +115,7 @@ a:hover::after {
         /* border:solid black 3px ; */
         height: 1900px;
         width: 300px;
-        margin-left: 5px;
+        margin-left: 10px;
     }
 
     #tabletop {
